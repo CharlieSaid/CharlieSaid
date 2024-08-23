@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Charlie Said
+
+Links:
+ - [YouTube videos I've made](https://www.youtube.com/@csmm1683)
+ - [LinkedIn](https://www.linkedin.com/in/charlie-said-b29418273/)
 
 <!--
 **CharlieSaid/CharlieSaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
